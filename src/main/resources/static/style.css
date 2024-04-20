@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, serif;
+}
+
+header {
+    text-align: center;
+}
+
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
